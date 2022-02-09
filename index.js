@@ -10,7 +10,7 @@ var output=document.querySelector(".output");
 btn.addEventListener("click", function(){
     console.log("clicked");
     console.log(txtArea.value);
-    console.log(output.innerText=txtArea.value+txtArea.value);
+     console.log(output.innerText="ba"+txtArea.value);
 })
 
 
