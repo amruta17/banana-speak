@@ -13,7 +13,7 @@
      width: 100%;
      overflow: hidden;
      text-align: center;
-     background-color: #fde047;
+     background-color:#d9f99d;
      font-size: 50px;
      margin-bottom: 10vh;
 
@@ -25,15 +25,17 @@
      display: block;
      margin: auto;
      margin-bottom: 20px;
+     padding: 2rem;
+     background-color: #f7feee;
 
  }
 
  button {
+     text-decoration: none;
      display: block;
      margin: auto;
-     background-color: #fde047;
-     border: solid black 2px;
-     border-radius: 1rem;
+     background-color: #d9f99d;
+     border-radius: 1rem; 
      color: rgb(4, 22, 4);
      padding: 15px 32px;
      text-align: center;
@@ -49,7 +51,7 @@
      margin-bottom: 10px;
  }
 
- div {
+ .output {
      width: 50%;
      height: 20vh;
      border: solid 1px black;
@@ -57,12 +59,14 @@
      display: block;
      margin: auto;
      margin-bottom: 2rem;
-     padding: 1rem;
+     padding: 2rem;
+     background-color: #f7feee;
  }
 
  footer {
      text-align: center;
-     background-color: #fde047;
+     background-color: #d9f99d
+     ;
      width: 100%;
 
  }
@@ -71,6 +75,9 @@
      font-size: 25px;
  }
 
- footer p {
+ footer div {
+     width: 50%;
+     display: block;
+     margin: auto;
      padding: 1rem;
  }
