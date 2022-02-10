@@ -23,7 +23,6 @@ function clickHandler() {
         })
         .catch(errorHandeler)
 }
-
 btn.addEventListener("click", clickHandler)
 
 
