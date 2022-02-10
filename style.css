@@ -2,70 +2,75 @@
     nav {
     width: 100%;
     }   */
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
+ * {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+ }
 
 
-nav{
-    width: 100%;
-    overflow: hidden;  
-    text-align: center; 
-    background-color: #fde047; 
-    font-size: 50px;  
-    margin-bottom: 10vh;
-    
-}
+ nav {
+     width: 100%;
+     overflow: hidden;
+     text-align: center;
+     background-color: #fde047;
+     font-size: 50px;
+     margin-bottom: 10vh;
 
-textarea{
-    width: 50% ;
-    height: 20vh; 
-    display: block; 
-    margin: auto; 
-    margin-bottom: 20px;
-  
-}
-button{
-    display: block;
-    margin: auto;
-     background-color: #fde047; 
-    border: solid black 2px;
-    border-radius: 1rem;
-    color: rgb(4, 22, 4);
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    cursor: pointer;
-    
-}  
+ }
 
-h3{
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
- div{
-    width: 50%; 
-    height: 20vh; 
-    border: solid 1px black; 
-    margin-top: 1rem; 
-    display: block; 
-    margin: auto;
-    margin-bottom: 2rem;
-    padding: 1rem;
-} 
-footer{
-    text-align: center;
-    background-color:#fde047;
-    width: 100%;
-    
-}
-footer h1{
-    font-size: 25px;
-}
-footer p{
-padding: 1rem;
-}
+ textarea {
+     width: 50%;
+     height: 20vh;
+     display: block;
+     margin: auto;
+     margin-bottom: 20px;
+
+ }
+
+ button {
+     display: block;
+     margin: auto;
+     background-color: #fde047;
+     border: solid black 2px;
+     border-radius: 1rem;
+     color: rgb(4, 22, 4);
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 16px;
+     cursor: pointer;
+
+ }
+
+ h3 {
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ div {
+     width: 50%;
+     height: 20vh;
+     border: solid 1px black;
+     margin-top: 1rem;
+     display: block;
+     margin: auto;
+     margin-bottom: 2rem;
+     padding: 1rem;
+ }
+
+ footer {
+     text-align: center;
+     background-color: #fde047;
+     width: 100%;
+
+ }
+
+ footer h1 {
+     font-size: 25px;
+ }
+
+ footer p {
+     padding: 1rem;
+ }

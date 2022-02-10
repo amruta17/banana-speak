@@ -6,7 +6,6 @@ var serverURL = "https://api.funtranslations.com/translate/minion.json";
 function getTransalationURL(text) {
     return serverURL + "?" + "text" + "=" + text;
 }
-
 function errorHandeler(error) {
     console.log("error occured");
     alert("something wrong with server..try again ater sometimw!..")
