@@ -55,6 +55,7 @@ h3{
     display: block; 
     margin: auto;
     margin-bottom: 2rem;
+    padding: 1rem;
 } 
 footer{
     text-align: center;
@@ -66,5 +67,5 @@ footer h1{
     font-size: 25px;
 }
 footer p{
-padding: 2rem;
+padding: 1rem;
 }
